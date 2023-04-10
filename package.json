@@ -1,0 +1,22 @@
+{
+  "name": "sqs-concept",
+  "version": "1.0.0",
+  "description": "Concept of sqs quee.",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunorpredolim/sqs-concept.git"
+  },
+  "author": "Bruno Rocha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunorpredolim/sqs-concept/issues"
+  },
+  "homepage": "https://github.com/brunorpredolim/sqs-concept#readme",
+  "dependencies": {
+    "ts-node-dev": "^2.0.0"
+  }
+}
